@@ -20,6 +20,7 @@ Syntax highlighted code block
 
 1. [Política de Privacidade](www.uol.com.br)
 2. [Termos de Serviço](https://github.com/fmingsp/Application_Page/edit/main/termos_servico.md)
+3.  <a href="www.uol.com.br">Política de Privacidade</a> 
 
 **Bold** and _Italic_ and `Code` text
 
