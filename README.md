@@ -18,10 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Política de Privacidade (www.uol.com.br)
-1. [Política de Privacidade] Política de Privacidade
-http://github.com - automatic!
-2. URL dos Termos de Serviço
+1. [politica_privacidade.md] Política de Privacidade
+2. [termos_servico.md] Termos de Serviço
 
 **Bold** and _Italic_ and `Code` text
 
