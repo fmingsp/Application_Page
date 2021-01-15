@@ -19,6 +19,7 @@ Syntax highlighted code block
 - List
 
 1. Política de Privacidade (www.uol.com.br)
+1. [Política de Privacidade] Política de Privacidade
 http://github.com - automatic!
 2. URL dos Termos de Serviço
 
