@@ -18,7 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. [Política de Privacidade](https://github.com/fmingsp/Application_Page/edit/main/politica_privacidade.md)
+1. [Política de Privacidade](www.uol.com.br)
 2. [Termos de Serviço](https://github.com/fmingsp/Application_Page/edit/main/termos_servico.md)
 
 **Bold** and _Italic_ and `Code` text
