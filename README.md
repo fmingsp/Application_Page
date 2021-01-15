@@ -18,8 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Política de Privacidade
+2. URL dos Termos de Serviço
 
 **Bold** and _Italic_ and `Code` text
 
